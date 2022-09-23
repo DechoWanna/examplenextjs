@@ -1,0 +1,59 @@
+.pageHeader {
+  background-color: #d4d4d4;
+}
+
+.Login {
+  background-color: #5b5b5b;
+  color: white;
+  border-color: #5b5b5b;
+  border-radius: 8px;
+}
+
+.Login:hover {
+  background-color: white;
+  color: #5b5b5b;
+  border-color: #5b5b5b;
+  box-shadow: none;
+}
+.Login::after {
+  box-shadow: none !important;
+}
+
+.Login:active {
+  background-color: white;
+  color: #5b5b5b;
+  border-color: #5b5b5b;
+  box-shadow: none;
+}
+.Login:focus {
+  background-color: white;
+  color: #5b5b5b;
+  border-color: #5b5b5b;
+  box-shadow: none;
+}
+.Signup {
+  background-color: white;
+  color: #5b5b5b;
+  border-color: #5b5b5b;
+  border-radius: 8px;
+}
+.Signup::after {
+  box-shadow: 0 0 0 0 #5b5b5b !important;
+}
+.Signup:hover {
+  background-color: white;
+  color: #5b5b5b;
+  border-color: #5b5b5b;
+}
+.Signup:focus {
+  background-color: white;
+  color: #5b5b5b;
+  border-color: #5b5b5b;
+  /* box-shadow: none; */
+}
+.Signup:active {
+  background-color: white;
+  color: #5b5b5b;
+  border-color: #5b5b5b;
+  /* box-shadow: none; */
+}

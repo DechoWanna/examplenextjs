@@ -1,0 +1,24 @@
+.loginform {
+  max-width: 100%;
+}
+.loginformforgot {
+  float: right;
+}
+.ant-col-rtl .loginformforgot {
+  float: left;
+}
+.loginformbutton {
+  width: 100%;
+}
+.loginformcontent {
+  display: flex;
+  justify-content: center;
+}
+.loginformcontent,
+.ant-card-body {
+  width: 100%;
+  border: none;
+}
+.top {
+  margin-top: 200px;
+}

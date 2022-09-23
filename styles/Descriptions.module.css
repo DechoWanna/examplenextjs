@@ -1,0 +1,59 @@
+.descriptionssize {
+  width: 100%;
+}
+.descriptionssize .ant-card-body {
+  padding: 0px !important;
+}
+.contentheader {
+  display: flex;
+  align-items: center;
+  background-color: #454545;
+  padding: 0px 0px 0px 40px;
+  color: #fafafa;
+  font-size: 2vw;
+}
+.contentheaderP1 {
+  display: flex;
+  align-items: center;
+  background-color: #353535;
+  padding: 0px 0px 0px 40px;
+  color: #fafafa;
+  font-size: 2vw;
+}
+.contentheadersider {
+  background-color: #3c3c3c;
+  color: #fafafa;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+.contentheadersiderp1 {
+  background-color: #313131;
+  color: #fafafa;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+.contentheaderflexcenter {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.contenticon {
+  display: flex;
+  align-items: center;
+}
+.contentdivflex {
+  display: flex;
+  height: 100%;
+}
+.contentetext {
+  height: 100%;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: #fafafa;
+  font-size: 1vw;
+}
